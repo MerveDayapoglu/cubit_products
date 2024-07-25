@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ##
-The provider test will give an error when running the tests. To remove the error, go to the provider folder under the data folder. Remove the comment block in the file there and put the dio object in the comment line. To run the project, undo what you have done.
+The provider test will give an error when running the tests. To remove the error, go to the provider folder under the data folder. Remove the comment block in the file there and put the dio object in the comment line. To run the project, undo what you have done. Read (https://medium.com/@merve.dayapoglu17/flutterda-mockito-ile-test-yazımı-6438e09f4b25) to better understand the test files 
