@@ -6,6 +6,8 @@ import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';
 
 // Mockito tarafından oluşturulacak Mock sınıfının oluşturulması için
+//Bu test dosyasını çalıştırmadan önce lib klasörü altındaki data klasörüne gidin. Bu klasör altındaki provider klasörü altında
+//product_provider dosyasını açın ve yorum satırındaki açıklamayı okuyun.
 
 @GenerateMocks([Dio])
 import 'product_provider_test.mocks.dart';
